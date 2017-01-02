@@ -22,7 +22,7 @@ theme = "hugo-minimalist-theme"
     header_background = "images/books.jpg"
     header_title = "jonathan's book notes"
     copyright = "Powered by [Hugo](http://gohugo.io)."
-    custom_css = []
+    custom_css = ["css/override.css"]
     custom_js  = []
 
     # Enable gogle analytics by entering your tracking code
