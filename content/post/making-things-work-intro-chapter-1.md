@@ -6,7 +6,7 @@ tags = ["Project Management", "Leadership"]
 +++
 
 
-![](/images/colored_pencils.jpg)
+![](images/colored_pencils.jpg)
 
 >"failures force us to pay attention.  They demand us to re-examine assumptions we'd forgotten were there..." is beneficial to look at project management throughout history as well as project management in other fields.
 

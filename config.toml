@@ -1,4 +1,4 @@
-baseurl = "http://www.jonathanc.xyz/book-notes"
+baseurl = "http://www.jonathanc.xyz/book-notes/"
 languageCode = "en-us"
 title = "jonathan's book notes"
 # Define how many pages appear per site
