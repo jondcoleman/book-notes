@@ -1,8 +1,8 @@
 +++
 date = "2017-01-02T15:44:13-05:00"
 title = "Making Things Work: Chapter 2"
-tags = [Scheduling, Estimating, Design]
-
+draft = false
+tags = ["Scheduling", "Estimating", "Design"]
 +++
 
 ## Schedules have 3 purposes
